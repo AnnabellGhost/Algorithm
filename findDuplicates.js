@@ -12,3 +12,6 @@ var findDuplicates = function(nums) {
    return result; 
 };
 console.log(findDuplicates([4,6,7,4,8,7]));
+
+// console.log(7/2);
+//3.5
